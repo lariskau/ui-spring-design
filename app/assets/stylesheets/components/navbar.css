@@ -1,0 +1,60 @@
+/* Navabar */
+
+/* Add a background color to the top navigation */
+.topnav {
+    background: linear-gradient(to right, #43c6ac, #191654);
+    overflow: hidden;
+}
+
+.topnav b {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 23px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav c {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav d {
+    float: right;
+    display: block;
+    padding: 10px 10px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #191654;
+    color: white;
+    border-radius: 13px;
+    transition: 0.3s;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+    background-color: #191654;
+    color: white;
+    border-radius: 13px;
+}

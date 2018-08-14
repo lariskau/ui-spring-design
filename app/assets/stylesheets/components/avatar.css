@@ -1,0 +1,15 @@
+/* AVATAR */
+
+.avatar_small {
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.avatar_large {
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}

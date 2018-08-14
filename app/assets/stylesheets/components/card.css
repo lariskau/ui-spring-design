@@ -1,0 +1,37 @@
+/* CARD */
+.flex-container {
+  display: flex;
+}
+
+.card-container {
+    width: 35%;
+    padding: 1rem;
+}
+
+.card {
+    background-image: linear-gradient(to right, #43c6ac, #191654);
+    background-size: cover;
+    border-radius: 13px;
+    border: 0px solid #191654;
+    border-width: 0px 0px 4px 0px;
+    padding: 20px 20px 20px 20px;
+    color: #fff;
+    font-size: 14px;
+    font-family: Lato;
+}
+
+.card_category {
+    float: right;
+}
+
+
+.card__title {
+    text-align: center;
+    font-size: 45px;
+}
+
+.card__description {
+    text-align: center;
+    padding: .5rem;
+    line-height: 1.6em;
+}
