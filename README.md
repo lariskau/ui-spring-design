@@ -1,24 +1,10 @@
-# README
+# UI SPRING DESIGN
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Made with <3 by Edouard et Léa
 
-Things you may want to cover:
 
-* Ruby version
+* Pour voir ce chef d'oeuvre : https://tas-pas-de-vacances.herokuapp.com/
 
-* System dependencies
+* Ruby version 5.2
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Projet réalisé dans le cadre de THP (The Hacking Project)
